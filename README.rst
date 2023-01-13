@@ -16,16 +16,11 @@ the Version 2.0 Apache License.
 
 Installation
 ------------
+Since the bson project is seemingly deprecated, this must be installed directly from this repo via
 
 .. sourcecode:: bash
 
-   ~ $ python setup.py install
-
-or can use pip
-
-.. sourcecode:: bash
-
-   ~ $ pip install bson
+   ~ $ pip install git+https://github.com/BlackIsBlack/bson.git
 
 
 Quick start
