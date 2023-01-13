@@ -20,7 +20,7 @@ Since the bson project is seemingly deprecated, this must be installed directly 
 
 .. sourcecode:: bash
 
-   ~ $ pip install git+https://github.com/BlackIsBlack/bson.git
+   ~ $ pip install git+https://github.com/BlackIsBlack/bson
 
 
 Quick start
